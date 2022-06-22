@@ -1,0 +1,33 @@
+body{
+    min-width: 300px;
+}
+
+header{
+  
+    text-align: center;
+    background-color: rgb(185, 191, 226);
+    padding: 60px;
+    color: rgb(rgb(78, 64, 97));
+}
+
+img{
+    margin: auto;
+    width: 200px;
+    border-radius: 100%;
+}
+
+main{
+    padding: 60px;
+    background-color: rgb(233, 194, 228);
+    display: flex;
+  
+  
+}
+
+main div{
+    margin: auto;
+    
+    padding: 20px;
+    min-width: 100px;
+    height: 250px;
+}
